@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-task-musquare/static/css/main.828017d1.css",
+    "main.js": "/todo-task-musquare/static/js/main.fcce1312.js",
+    "static/js/453.7ff1167a.chunk.js": "/todo-task-musquare/static/js/453.7ff1167a.chunk.js",
+    "index.html": "/todo-task-musquare/index.html",
+    "main.828017d1.css.map": "/todo-task-musquare/static/css/main.828017d1.css.map",
+    "main.fcce1312.js.map": "/todo-task-musquare/static/js/main.fcce1312.js.map",
+    "453.7ff1167a.chunk.js.map": "/todo-task-musquare/static/js/453.7ff1167a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828017d1.css",
+    "static/js/main.fcce1312.js"
+  ]
+}
