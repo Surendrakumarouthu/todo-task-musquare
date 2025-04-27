@@ -24,5 +24,5 @@ This is a simple Task Management Dashboard built using React.
 
 1. Clone the repo:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Surendrakumarouthu/todo-task-musquare.git
 cd task-dashboard
