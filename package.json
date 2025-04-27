@@ -3,7 +3,7 @@
   "name": "task-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<surendrakumarouthu>.github.io/<todo-task-musquare>",
+  "homepage": "https://Surendrakumarouthu.github.io/todo-task-musquare/",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.4",
     "@testing-library/dom": "^10.4.0",
